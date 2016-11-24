@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KKtixbox</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string-array name="drawer_item_title_main">
+
+        <item>關於程式</item>
+        <item>註冊/登入</item>
+    </string-array>
+    <string-array name="tablayout_item_title_main">
+        <item>追蹤</item>
+        <item>活動</item>
+        <item>購票記錄</item>
+    </string-array>
+</resources>

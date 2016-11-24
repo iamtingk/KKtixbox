@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="50dp"
+    tools:context="com.iamtingk.kktixbox.sms_login.SmsOne">
+
+    <EditText
+        android:id="@+id/edt_sms_sms01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0956929596" />
+
+    <Button
+        android:id="@+id/btn_sms_sms01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="註冊/登入" />
+
+     />
+</LinearLayout>
+

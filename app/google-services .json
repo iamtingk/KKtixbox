@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1013167703268",
+    "project_id": "kktixbox"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013167703268:android:137e7eb88ac384ee",
+        "android_client_info": {
+          "package_name": "com.iamtingk.kktixbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zRMkShYM8rekm7nG_Jf2VFmzOGUveXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

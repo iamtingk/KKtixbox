@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="com.iamtingk.kktixbox.MainActivity">
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/frame_layout_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <android.support.design.widget.TabLayout
+                            android:id="@+id/tab_layout_main"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:tabIndicatorHeight="5dp"
+                            app:tabSelectedTextColor="#ff4081"
+                            app:tabBackground="@color/colorPrimary"
+                            >
+
+                        </android.support.design.widget.TabLayout>
+                        <android.support.v4.view.ViewPager
+                            android:id="@+id/viewpager_main"
+                            android:layout_marginTop="50dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            >
+
+                        </android.support.v4.view.ViewPager>
+
+                    </RelativeLayout>
+
+
+            </LinearLayout>
+        </FrameLayout>
+
+        <ListView
+            android:id="@+id/listview_main"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#111"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            >
+
+        </ListView>
+
+    </android.support.v4.widget.DrawerLayout>
+
+</RelativeLayout>

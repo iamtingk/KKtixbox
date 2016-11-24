@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fm_b_item_linear"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        >
+    <ImageView
+        android:id="@+id/fm_b_item_imgview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        >
+    <TextView
+        android:id="@+id/fm_b_item_title"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:textSize="9pt"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/fm_b_item_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50px"
+        android:textColor="#7a7a7a"
+        android:textStyle="bold"
+        android:textSize="6pt"
+        android:gravity="right"/>
+        </LinearLayout>
+</LinearLayout>
