@@ -27,11 +27,11 @@ GCM推播註冊、應用
 </br></br>
 
 ###程式示意圖
-![程式示意圖1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223741.jpg)
+![程式示意圖1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223741.png)
 
-![程式示意圖2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223742.jpg)
+![程式示意圖2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223742.png)
 
-![程式示意圖3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223743.jpg)
+![程式示意圖3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223743.png)
 
 </br></br></br>
 ###元件應用
@@ -75,32 +75,32 @@ GCM推播註冊、應用
 
 </br></br>
 
-![簡訊流程2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223751.jpg)
+![簡訊流程2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223751.png)
 
 </br></br>
 
-![簡訊流程3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223752.jpg)
+![簡訊流程3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223752.png)
 
 </br></br>
 
-![簡訊流程4](https://github.com/iamtingk/KKtixbox/blob/master/pic/223753.jpg)
+![簡訊流程4](https://github.com/iamtingk/KKtixbox/blob/master/pic/223753.png)
 
 </br></br>
 
-![簡訊流程5](https://github.com/iamtingk/KKtixbox/blob/master/pic/223754.jpg)
+![簡訊流程5](https://github.com/iamtingk/KKtixbox/blob/master/pic/223754.png)
 
 </br></br></br>
 
 ###GCM推播
-![GCM推播1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223771.jpg)
+![GCM推播1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223771.png)
 
 </br></br>
 
-![GCM推播2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223772.jpg)
+![GCM推播2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223772.png)
 
 </br></br>
 
-![GCM推播3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223773.jpg)
+![GCM推播3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223773.png)
 
 </br></br></br>
 
@@ -153,3 +153,6 @@ GCM訊息
 如有面試機會，可做現場展示
 </br>
 ##聯絡我
+如果需改進的地方或是互相交流一下，很歡迎來信哦～
+
+gntim0o01@gmail.com
