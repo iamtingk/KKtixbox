@@ -27,7 +27,11 @@ GCM推播註冊、應用
 </br></br>
 
 ###程式示意圖
-3
+![程式示意圖1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223741.jpg)
+
+![程式示意圖2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223742.jpg)
+
+![程式示意圖3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223743.jpg)
 
 </br></br></br>
 ###元件應用
@@ -62,22 +66,46 @@ GCM推播註冊、應用
 </br></br>
 
 ###程式手機端架構
-1
+![程式手機端架構](https://github.com/iamtingk/KKtixbox/blob/master/pic/134211.png)
 
 </br></br></br>
 
 ###簡訊流程
-5
+![簡訊流程1](https://github.com/iamtingk/KKtixbox/blob/master/pic/134213.png)
+
+</br></br>
+
+![簡訊流程2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223751.jpg)
+
+</br></br>
+
+![簡訊流程3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223752.jpg)
+
+</br></br>
+
+![簡訊流程4](https://github.com/iamtingk/KKtixbox/blob/master/pic/223753.jpg)
+
+</br></br>
+
+![簡訊流程5](https://github.com/iamtingk/KKtixbox/blob/master/pic/223754.jpg)
 
 </br></br></br>
 
 ###GCM推播
-3
+![GCM推播1](https://github.com/iamtingk/KKtixbox/blob/master/pic/223771.jpg)
+
+</br></br>
+
+![GCM推播2](https://github.com/iamtingk/KKtixbox/blob/master/pic/223772.jpg)
+
+</br></br>
+
+![GCM推播3](https://github.com/iamtingk/KKtixbox/blob/master/pic/223773.jpg)
 
 </br></br></br>
 
 ###技術應用
-1
+![技術應用](https://github.com/iamtingk/KKtixbox/blob/master/pic/134212.png)
 
 </br></br></br>
 
